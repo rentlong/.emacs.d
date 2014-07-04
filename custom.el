@@ -9,7 +9,7 @@
  '(inhibit-startup-screen t)
  '(initial-scratch-message ";; Happy Hacking")
  '(markdown-command "/usr/local/bin/markdown")
- '(python-indent-offset 2)
+ '(python-indent-offset 2))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
